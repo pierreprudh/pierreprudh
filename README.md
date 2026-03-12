@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Pierre Prudhomme, a Data Science engineering student at ENSIIE (graduating 2025), currently looking for a permanent position in Data Science / AI Engineering.<p align="center"><br>  <a href="https://portfolio-pierreprudh.vercel.app/" target="_blank"><br>    🌐 Visit my Portfolio<br>  </a><br></p>
+I’m Pierre Prudhomme, a AI engineer from ENSIIE (graduating 2025), currently looking for a permanent position in Data Science / AI Engineering.<p align="center"><br>  <a href="https://portfolio-pierreprudh.vercel.app/" target="_blank"><br>    🌐 Visit my Portfolio<br>  </a><br></p>
 
 # 💻 Tech Stack
 
