@@ -1,5 +1,14 @@
-# 💫 About Me:
-I’m Pierre Prudhomme, a AI engineer from ENSIIE (graduating 2025), currently looking for a permanent position in Data Science / AI Engineering.<p align="center"><br>  <a href="https://portfolio-pierreprudh.vercel.app/" target="_blank"><br>    🌐 Visit my Portfolio<br>  </a><br></p>
+# 💫 About Me
+
+I'm Pierre Prudhomme, an AI engineer focused on agentic systems, LLMs, and building AI-powered products.
+
+<p align="center">
+  <a href="https://portfolio-pierreprudh.vercel.app/" target="_blank">
+    🌐 Visit my Portfolio
+  </a>
+</p>
+
+---
 
 # 💻 Tech Stack
 
@@ -23,10 +32,10 @@ I’m Pierre Prudhomme, a AI engineer from ENSIIE (graduating 2025), currently l
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-5A67D8?style=flat)
 ![LLMOps](https://img.shields.io/badge/LLMOps-4B5563?style=flat)
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6B7280?style=flat)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97706?style=flat)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 ---
-
 
 ### 📊 Data Visualization & Apps
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat&logo=matplotlib&logoColor=black)
@@ -35,7 +44,7 @@ I’m Pierre Prudhomme, a AI engineer from ENSIIE (graduating 2025), currently l
 
 ---
 
-### 🧠 Data & Big Data
+### 🗄️ Data & Big Data
 ![SQL](https://img.shields.io/badge/SQL-0074C1?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
@@ -46,7 +55,7 @@ I’m Pierre Prudhomme, a AI engineer from ENSIIE (graduating 2025), currently l
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=pierreprudh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pierreprudh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pierreprudh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
