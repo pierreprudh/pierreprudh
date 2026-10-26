@@ -17,18 +17,18 @@
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust%2Cts%2Creact%2Ctauri%2Cvite&theme=light">
-    <img src="https://skillicons.dev/icons?i=rust%2Cts%2Creact%2Ctauri%2Cvite&theme=dark" alt="Rust, TypeScript, React, Tauri, Vite">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust%2Cts%2Cswift%2Creact%2Ctauri%2Cvite%2Cfastapi&theme=light">
+    <img src="https://skillicons.dev/icons?i=rust%2Cts%2Cswift%2Creact%2Ctauri%2Cvite%2Cfastapi&theme=dark" alt="Rust, TypeScript, Swift, React, Tauri, Vite, FastAPI">
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cmongodb%2Csqlite%2Ckafka%2Cdocker%2Cgit&theme=light">
-    <img src="https://skillicons.dev/icons?i=postgres%2Cmongodb%2Csqlite%2Ckafka%2Cdocker%2Cgit&theme=dark" alt="PostgreSQL, MongoDB, SQLite, Kafka, Docker, Git">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cmongodb%2Csqlite%2Ckafka%2Cdocker%2Cgithubactions%2Cgit&theme=light">
+    <img src="https://skillicons.dev/icons?i=postgres%2Cmongodb%2Csqlite%2Ckafka%2Cdocker%2Cgithubactions%2Cgit&theme=dark" alt="PostgreSQL, MongoDB, SQLite, Kafka, Docker, GitHub Actions, Git">
   </picture>
 </p>
 
 <p align="center">
-  <samp>llms · agents · rag · mcp · langchain · llama.cpp · mlx</samp>
+  <samp>llms · agents · rag · mcp · fine-tuning · claude api · langchain · llama.cpp · mlx</samp>
 </p>
 
 <br>
