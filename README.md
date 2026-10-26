@@ -28,7 +28,9 @@
 </p>
 
 <p align="center">
-  <samp>llms · agents · rag · mcp · fine-tuning · claude api · langchain · llama.cpp · mlx</samp>
+  <samp>llms · agents · rag · mcp · lora</samp>
+  <br>
+  <samp>claude api · langchain · langsmith · langfuse · autogen · llama.cpp · mlx</samp>
 </p>
 
 <br>
