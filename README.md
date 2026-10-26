@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <samp>llms · agents · rag · mcp · langchain · ollama · mlx</samp>
+  <samp>llms · agents · rag · mcp · langchain · llama.cpp · mlx</samp>
 </p>
 
 <br>
